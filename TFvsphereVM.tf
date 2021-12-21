@@ -1,7 +1,7 @@
 provider "vsphere" {
     user           = "root"
-    password       = "#Tame2011"
-    vsphere_server = "172.16.20.2"
+    password       = "#password"
+    vsphere_server = "vpshere HostIP"
 
 
     # If you have a self-signed cert
